@@ -6,8 +6,6 @@ const btoa = require('btoa');
 
 console.log('Waiting for LeagueClient to start');
 
-var config = {};
-
 recurring = (endpoint) => {
   if (!process.env.should_run) return new Promise();
 
