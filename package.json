@@ -1,0 +1,26 @@
+{
+  "name": "lol-invisible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "lcu-connector": "^1.0.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-rekttt/lol-invisible.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-rekttt/lol-invisible/issues"
+  },
+  "homepage": "https://github.com/t-rekttt/lol-invisible#readme"
+}
