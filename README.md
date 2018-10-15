@@ -1,6 +1,6 @@
 # lol-invisible
 
-Powered by NodeJS, built by pkg
+Powered by NodeJS, built using pkg
 
 Dependency installation: `npm install && npm install pkg -g`
 
